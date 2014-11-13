@@ -1,0 +1,221 @@
+{
+  "basics": {
+    "name": "Christopher Koskey",
+    "picture": "https://lh5.googleusercontent.com/-DfRpxygjXcQ/TjsnUaG2jHI/AAAAAAAAByE/f5Bmuqu84BQ/w423-h422-no/P1010028.JPG",
+    "email": "koskey@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "I value simplicity.\n\nI see projects as iterative slices. I favor finding root causes over workarounds. I believe large/integration tests are more important than unit tests. I believe in UX. I think time away from work makes you better at work. I believe Tufte is right.",
+    "location": {
+      "address": "4512 NE 29th Ave",
+      "postalCode": "97211",
+      "city": "Portland, Oregon Area",
+      "countryCode": "US",
+      "region": "Cascadia"
+    },
+    "profiles": [{
+      "network": "GitHub",
+      "username": "pausebreak",
+      "url": "https://github.com/pausebreak"
+    }]
+  },
+  "work": [
+    {
+      "company": "Tripwire",
+      "position": "Senior Software Developer",
+      "website": "https://www.tripwire.com/",
+      "startDate": "2008-03-01",
+      "summary": "A full stack developer with expertise in software design, D3js, JavaScript, Java and Clojure.  Invaluable member of the team. Maintained build system, project layout, modules, testing frameworks, and automation systems. Educated others on REST, CSS, HTML, JavaScript and testable code.",
+      "highlights": []
+    },
+    {
+      "company": "Relative Path",
+      "position": "Owner",
+      "website": "",
+      "startDate": "2007-11-01",
+      "summary": "Web software consulting company specializing in Ruby.\n\n* Rack/Sinatra/DataMapper REST services\n* Ruby on Rails commerce site",
+      "highlights": [],
+      "endDate": "2012-12-01"
+    },
+    {
+      "company": "Anzus Technology",
+      "position": "Senior Developer",
+      "website": "",
+      "startDate": "2005-07-01",
+      "summary": "Server installation and configuration, software architecture, coding (PHP, pl/sql) and release management.  Port of ArcIMS html interface to AJAX.",
+      "highlights": [],
+      "endDate": "2008-03-01"
+    },
+    {
+      "company": "Blue Hill Solutions",
+      "position": "Code Monkey",
+      "website": "",
+      "startDate": "2006-09-01",
+      "summary": "Ruby on Rails development.  AJAX interfaces. XML API between various clients ( OS X widget, Rails, PHP ) and a central Rails server.",
+      "highlights": [],
+      "endDate": "2006-10-01"
+    },
+    {
+      "company": "S&K Technologies",
+      "position": "Developer/System Admin",
+      "website": "",
+      "startDate": "2003-03-01",
+      "summary": "Contract with the US Forest Service. Main duties include Server installation and configuration, software architecture, coding (PHP, pl/sql) and release management of  a nationwide environmental cleanup tracking web site with row level data security.  Ported the following to Oracle: a cold fusion/access site to PHP/Oracle, phpBB and Mantis. Installed and debugged Oracle 9iAS Forms platform as a testbed for nationwide application conversion; compiled an installer package for Apache/PHP with Oracle support for nationwide use on AIX.  Java project in a JSP struts environment.",
+      "highlights": [],
+      "endDate": "2005-06-01"
+    },
+    {
+      "company": "bigbluebang.com",
+      "position": "Developer/System Admin",
+      "website": "",
+      "startDate": "2002-12-01",
+      "summary": "Small web hosting startup.  MySQL and PHP Object Oriented (OOP) toolkit design and implementation for secure publishing, user management, versioning, collaboration, calendar and file sharing; maintained secure co located Linux servers running CVS, BIND(jailed), MySQL, Apache, ProFTP and Postfix.",
+      "highlights": [],
+      "endDate": "2003-02-01"
+    },
+    {
+      "company": "Salu",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2001-02-01",
+      "summary": "Developed mod_perl modules for use in a Linux/Solaris/NT/Oracle environment. Maintained a PHP like Perl html parser that allows dynamic module loading on the fly; ported Phorum (PHP) to Oracle using a more secure schema;  complex javascript applications (dynamic multi browser tree views, etc.); HTML optimization; SSL debugging and communication between dissimilar systems.",
+      "highlights": [],
+      "endDate": "2002-11-01"
+    },
+    {
+      "company": "McAfee.com",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2000-02-01",
+      "summary": "Lead Web Developer on all McAfee.com Clinic Applications.  Cleaned up existing code base; oversaw/developed all new applications; extensive use of scripting in IE based applications and on IIS back end; wrote a context sensitive help system; localization efforts.",
+      "highlights": [],
+      "endDate": "2000-10-01"
+    },
+    {
+      "company": "Network Associates",
+      "position": "Software Release Engineer",
+      "website": "",
+      "startDate": "1999-04-01",
+      "summary": "Internal Web Development and QA position involving organization and creation of large OEM and Public Release CDs.  Created and maintained an internal QA web site running on IIS with a Perl(DBI)/HTML interface to an ODBC database; maintained the company's external Beta pages.",
+      "highlights": [],
+      "endDate": "2000-02-01"
+    },
+    {
+      "company": "Lase-R Shield",
+      "position": "Information Services Manager",
+      "website": "",
+      "startDate": "1996-08-01",
+      "summary": "Authored and maintained multi person contact management database on Win95 peer-to-peer network.  Responsible for Web site, network maintenance and PC hardware troubleshooting/upgrades; wired network and phone system.",
+      "highlights": [],
+      "endDate": "1997-11-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of New Mexico",
+      "area": "General Studies, Music",
+      "startDate": "1993-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1995-01-01"
+    },
+    {
+      "institution": "New Mexico Institute of Mining and Technology",
+      "area": "Math",
+      "startDate": "1991-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1992-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Architecture",
+      "level": "7",
+      "keywords": []
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "6",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "4",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "9",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "8",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "10",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "8",
+      "keywords": []
+    },
+    {
+      "name": "Sinatra",
+      "level": "6",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "10",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "8",
+      "keywords": []
+    },
+    {
+      "name": "REST",
+      "level": "10",
+      "keywords": []
+    },
+    {
+      "name": "D3",
+      "level": "7",
+      "keywords": []
+    },
+    {
+      "name": "Presenter",
+      "level": "5",
+      "keywords": []
+    },
+    {
+      "name": "Clojure",
+      "level": "6",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Kenichi Nakamura",
+      "reference": "kenichi.nakamura@gmail.com"
+    }
+ ],
+  "interests": [{
+    "name": "music composition",
+    "keywords": [""]
+  },
+  {
+    "name": "coffee roasting",
+    "keywords": [""]
+  },
+  {
+    "name": "baseball",
+    "keywords": [""]
+  }]
+}
